@@ -4,8 +4,8 @@ import Logo from "../assets/echakra.png";
 const Footer = () => {
   return (
     <div>
-      <div className="h-fit w-full mt-[20vh] md:flex flex-col justify-center shadow-3xl  p-5">
-        <div>
+{/*       <div className="h-fit w-full mt-[20vh] md:flex flex-col justify-center shadow-3xl  p-5"> */}
+{/*         <div>
           <h1 className="font-semibold font-montserrat text-xl text-[#FEFBE5] text-left">
             You can help <br /> Shape the Future
           </h1>
@@ -50,7 +50,7 @@ const Footer = () => {
             Created by<span className="font-bold text-xl  font-montserrat text-[#ff5757]">Echakran</span>team
           </h1>
           </div>
-      </div>
+      </div> */}
     </div>
   );
 };
